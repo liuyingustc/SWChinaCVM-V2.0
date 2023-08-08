@@ -15,4 +15,5 @@ If you have any questions, please feel free to contact Huajian Yao (hjyao@ustc.e
 References:
 
 Liu, Y., Yu, Z., Zhang, Z., Yao, H., Wang, W., Zhang, H., Fang, H., and Fang, L. (2023). The high-resolution community velocity model V2.0 of southwest China, constructed by joint body and surface wave tomography of data recorded at temporary dense arrays. Science China Earth Sciences: doi: 10.1007/s11430-022-1161-7.
+
 刘影，于子叶，张智奇，姚华建，王伟涛，张海江，方洪健，房立华. (2023). 基于密集流动台阵构建的川滇地区高分辨率公共速度模型2.0版本. 中国科学：地球科学: doi: 10.1360/SSTe-2022-0394.
